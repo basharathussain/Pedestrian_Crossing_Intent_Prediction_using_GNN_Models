@@ -433,11 +433,11 @@ python train.py --pretrained checkpoints/sta_gcn_best.pth --finetune
 
 If you find this work useful, please cite our paper:
 ```bibtex
-@inproceedings{hussain2024graph,
+@inproceedings{hussain2026graph,
   title={Graph-Based Interaction Modeling for Context-Aware Pedestrian Intention Prediction in Autonomous Driving},
   author={Hussain, Basharat and Islam, Muhammad},
-  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-  year={2024}
+  booktitle={TBD},
+  year={2026}
 }
 ```
 
