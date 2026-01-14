@@ -1,5 +1,3 @@
-# Pedestrian_Crossing_Intent_Prediction_using_GNN_Models
-
 # Graph-Based Interaction Modeling for Context-Aware Pedestrian Intention Prediction
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
